@@ -1,0 +1,27 @@
+{
+  "name": "omnifood-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iliyani6e/omnifoodProject.git"
+  },
+  "author": "Stefanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iliyani6e/omnifoodProject/issues"
+  },
+  "homepage": "https://github.com/Iliyani6e/omnifoodProject#readme"
+}
